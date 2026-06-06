@@ -15,7 +15,7 @@ sort-uses = true
 integrations = ["laravel"]
 
 [linter.rules]
-cyclomatic-complexity = { threshold = 30 }
+cyclomatic-complexity = { threshold = 20 }
 excessive-parameter-list = { enabled = false } # withPaths() uses named params by design
 file-name = { enabled = false } # test files commonly define helper classes inline
 function-name = { enabled = false } # test helpers use camelCase
