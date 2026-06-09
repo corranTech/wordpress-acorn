@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://roots.io/acorn/">
-    <img alt="Acorn" src="https://cdn.roots.io/app/uploads/logo-acorn.svg" height="100">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://packagist.org/packages/roots/acorn"><img alt="Packagist Downloads" src="https://img.shields.io/packagist/dt/roots/acorn?label=downloads&colorB=2b3072&colorA=525ddc&style=flat-square"></a>
